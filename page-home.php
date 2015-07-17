@@ -1,6 +1,6 @@
 <?php
 /*
- Template Name: Custom Home Page test
+ Template Name: Custom Home Page
  *
  * For more info: http://codex.wordpress.org/Page_Templates
 */
