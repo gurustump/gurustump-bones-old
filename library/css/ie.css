@@ -89,7 +89,7 @@ I've edited it a bit, but it's a nice starting point.
 some nice typographical defaults
 more here: http://www.newnet-soft.com/blog/csstypography
 */
-/* line 65, ../scss/partials/_typography.scss */
+/* line 66, ../scss/partials/_typography.scss */
 p {
   -ms-word-wrap: break-word;
   word-break: break-word;
@@ -290,7 +290,7 @@ NAVIGATION STYLES
 }
 /* line 44, ../scss/breakpoints/_768up.scss */
 .nav ul {
-  background: #323944;
+  background: black;
   margin-top: 0;
 }
 /* line 48, ../scss/breakpoints/_768up.scss */
